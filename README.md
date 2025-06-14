@@ -42,7 +42,3 @@ I used a combination of Excel for quick insights and Python (with Pandas and NLT
 - Recommended the use of automated replies for common problems.
 - Proposed enhancements to support documentation and ticket routing.
 
----
-
-## 📂 Folder Structure
-
