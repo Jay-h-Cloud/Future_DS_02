@@ -1,0 +1,23 @@
+Frequently Reported Issues:
+- productpurchased: 14048 mentions
+- issue: 11530 mentions
+- im: 10287 mentions
+- please: 8808 mentions
+- assist: 6250 mentions
+- ive: 6001 mentions
+- problem: 2285 mentions
+- product: 2270 mentions
+- data: 1654 mentions
+- software: 1552 mentions
+
+Recommended Process Improvements:
+- Consider creating a knowledge base article for 'productpurchased'.
+- Consider creating a knowledge base article for 'issue'.
+- Consider creating a knowledge base article for 'im'.
+- Consider creating a knowledge base article for 'please'.
+- Consider creating a knowledge base article for 'assist'.
+- Consider creating a knowledge base article for 'ive'.
+- Consider creating a knowledge base article for 'problem'.
+- Consider creating a knowledge base article for 'product'.
+- Consider creating a knowledge base article for 'data'.
+- Consider creating a knowledge base article for 'software'.
